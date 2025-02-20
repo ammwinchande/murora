@@ -1,0 +1,27 @@
+{
+  "name": "murora",
+  "displayName": "murora",
+  "description": "A VS Code theme based on Nord colors with Aurora accents",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Murora Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Murora-default-color-theme.json"
+      },
+      {
+        "label": "Murora Light",
+        "uiTheme": "vs",
+        "path": "./themes/Murora-light-color-theme.json"
+      }
+    ]
+  }
+}
