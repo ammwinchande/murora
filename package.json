@@ -4,6 +4,7 @@
   "description": "A VS Code theme based on Nord colors with Aurora accents",
   "version": "0.0.1",
   "license": "MIT",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -11,6 +12,13 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ammwinchande/murora"
+  },
+  "bugs": {
+    "url": "https://github.com/ammwinchande/murora/issues"
+  },
   "contributes": {
     "themes": [
       {
