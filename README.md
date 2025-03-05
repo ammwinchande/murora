@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![PHP Code Snippet using Murora Dark](Dark-Mode-PHP.png)
+![PHP Code Snippet using Murora One Dark](Dark-Mode-PHP.png)
 
 ## Override this theme
 
