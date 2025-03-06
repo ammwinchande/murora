@@ -174,7 +174,7 @@
             "name": "Class, Support",
             "scope": [
                 "entity.name",
-                "support.other.namespace.use"
+                "support.other.namespace.use.php",
             ],
             "settings": {
                 "foreground": "#C678DD"
@@ -185,7 +185,7 @@
             "scope": [
                 "entity.name",
                 "support.type",
-                "support.class"
+                "support.class",
             ],
             "settings": {
                 "foreground": "#EBCB8B"
