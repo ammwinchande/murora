@@ -1,5 +1,5 @@
 {
-    "name": "Murora",
+    "name": "Murora One Dark",
     "type": "dark",
     "colors": {
         "editor.background": "#1E2128",
@@ -20,11 +20,35 @@
         "tab.activeForeground": "#D8DEE9",
         "tab.inactiveForeground": "#81A1C1",
         "editorGroupHeader.tabsBackground": "#1E2128",
-        "editorLineNumber.foreground": "#5C6370",
+        "editorLineNumber.foreground": "#495162",
+        "editorLineNumber.activeForeground": "#abb2bf",
         "editor.selectionBackground": "#434C5E",
-        "editor.wordHighlightBackground": "#3B4252",
+        "editor.wordHighlightBackground": "#d2e0ff2f",
+        "editor.wordHighlightBorder": "#7f848e",
+        "editor.wordHighlightStrongBackground": "#abb2bf26",
+        "editor.wordHighlightStrongBorder": "#7f848e",
         "editor.lineHighlightBackground": "#3B4252",
-        "editorCursor.foreground": "#D8DEE9"
+        "editorCursor.foreground": "#D8DEE9",
+        "editorBracketHighlight.foreground1": "#d19a66",
+        "editorBracketHighlight.foreground2": "#c678dd",
+        "editorBracketHighlight.foreground3": "#56b6c2",
+        "editorBracketMatch.background": "#515a6b",
+        "editorBracketMatch.border": "#515a6b",
+        "editor.findMatchBackground": "#d19a6644",
+        "editor.findMatchBorder": "#ffffff5a",
+        "editor.findMatchHighlightBackground": "#ffffff22",
+        "editorGutter.addedBackground": "#109868",
+        "editorGutter.deletedBackground": "#9A353D",
+        "editorGutter.modifiedBackground": "#948B60",
+        "editorIndentGuide.activeBackground1": "#c8c8c859",
+        "editorIndentGuide.background1": "#3b4048",
+        "minimapGutter.addedBackground": "#109868",
+        "minimapGutter.deletedBackground": "#9A353D",
+        "minimapGutter.modifiedBackground": "#948B60",
+        "editorOverviewRuler.addedBackground": "#109868",
+        "editorOverviewRuler.deletedBackground": "#9A353D",
+        "editorOverviewRuler.modifiedBackground": "#948B60",
+        "gitDecoration.ignoredResourceForeground": "#636b78"
     },
     "tokenColors": [
         {
@@ -34,7 +58,8 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#5C6370"
+                "foreground": "#5C6370",
+                "fontStyle": "italic"
             }
         },
         {
@@ -174,7 +199,7 @@
             "name": "Class, Support",
             "scope": [
                 "entity.name",
-                "support.other.namespace.use.php",
+                "support.other.namespace.use.php"
             ],
             "settings": {
                 "foreground": "#C678DD"
@@ -185,7 +210,7 @@
             "scope": [
                 "entity.name",
                 "support.type",
-                "support.class",
+                "support.class"
             ],
             "settings": {
                 "foreground": "#EBCB8B"
