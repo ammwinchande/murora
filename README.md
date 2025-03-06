@@ -11,11 +11,11 @@
 
 ## Screenshots
 
-<img src="./dark-mode.png" width="300" height="300" alt="Murora Dark"> <br/> Murora Dark
+![Murora Dark](./dark-mode.png) Murora Dark
 
-<img src="./light-mode.png" width="300" height="300" alt="Murora Light"> <br/> Murora Light
+![Murora Light](./light-mode.png) Murora Light
 
-<img src="./one-dark-mode.png" width="300" height="300" alt="Murora Light"> <br/> Murora One Dark
+![Murora One Dark](./one-dark-mode.png) Murora One Dark
 
 ## Override this theme
 
