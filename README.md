@@ -2,7 +2,7 @@
 
 ## Install
 
-1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.murora-vscode-theme).
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=ammwinchande.murora-vscode-theme).
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). The GitHub themes try to match the themes available in [github.com's settings](https://github.com/settings/appearance):
     - `Murora Dark`
