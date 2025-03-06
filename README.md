@@ -11,7 +11,11 @@
 
 ## Screenshots
 
-![PHP Code Snippet using Murora One Dark](Dark-Mode-PHP.png)
+<img src="./dark-mode.png" width="300" height="300" alt="Murora Dark"> <br/> Murora Dark
+
+<img src="./light-mode.png" width="300" height="300" alt="Murora Light"> <br/> Murora Light
+
+<img src="./one-dark-mode.png" width="300" height="300" alt="Murora Light"> <br/> Murora One Dark
 
 ## Override this theme
 

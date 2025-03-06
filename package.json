@@ -2,7 +2,7 @@
   "name": "murora",
   "displayName": "murora",
   "description": "A VS Code theme based on Nord colors with Aurora accents, and Added one dark alternative with more visible colors",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "icon": "icon.png",
   "engines": {
