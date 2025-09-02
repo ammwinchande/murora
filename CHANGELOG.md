@@ -10,4 +10,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## Changes
 
-- Updated the Dark mode to have more darker background and more light colors especially on PHP classes
+- Updated Murora-light-lite-color-theme.json: improved color palette, fixed contrast issues, and enhanced readability for light mode.
